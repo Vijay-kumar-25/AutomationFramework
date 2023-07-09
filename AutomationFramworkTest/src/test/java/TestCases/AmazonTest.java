@@ -16,6 +16,7 @@ public class AmazonTest {
 
 	private static void enterText() {
 		// TODO Auto-generated method stub
+		String s = "Tester";
 		
 	}
 
