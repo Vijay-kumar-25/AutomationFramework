@@ -10,6 +10,13 @@ public class AmazonTest {
 		//Create a Test
 		
 
+		enterText();
+
+	}
+
+	private static void enterText() {
+		// TODO Auto-generated method stub
+		
 	}
 
 }
